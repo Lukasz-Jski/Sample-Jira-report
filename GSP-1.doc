@@ -278,7 +278,7 @@ hr.fullcontent
     <table cellpadding="0" cellspacing="0" border="0" width="100%">
     <tr>
         <td id="descriptionArea">
-            <p>Product quantity change in any category is blocked at <del>99 due to unresponsive “+” and “</del>” buttons.</p>
+            <p>Product quantity change in any category is blocked at 99 due to unresponsive “+” and “-” buttons.</p>
 
 <h3><a name="Reproductionsteps%3A"></a>Reproduction steps:</h3>
 
